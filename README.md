@@ -1,2 +1,2 @@
-# PoiMixtSS
-Poisson mixture distributions to quantify heterogeneity in disease transmission
+# Poisson mixture distributions to quantify heterogeneity in disease transmission
+
